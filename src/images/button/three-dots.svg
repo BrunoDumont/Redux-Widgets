@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>three-dots</title>
+    <desc>Created with Sketch.</desc>
+    <g id="three-dots" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="three-dots-1" transform="translate(8.000000, 2.000000)" fill="#0C86D9" fill-rule="nonzero">
+            <path d="M1.5,15 C0.6715729,15 0,14.3284271 0,13.5 C0,12.6715729 0.6715729,12 1.5,12 C2.3284271,12 3,12.6715729 3,13.5 C3,14.3284271 2.3284271,15 1.5,15 Z M1.5,9 C0.6715729,9 0,8.3284271 0,7.5 C0,6.67157288 0.6715729,6 1.5,6 C2.3284271,6 3,6.67157288 3,7.5 C3,8.3284271 2.3284271,9 1.5,9 Z M1.5,3 C0.6715729,3 0,2.32842712 0,1.5 C0,0.67157288 0.6715729,0 1.5,0 C2.3284271,0 3,0.67157288 3,1.5 C3,2.32842712 2.3284271,3 1.5,3 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
