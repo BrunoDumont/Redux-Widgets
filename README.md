@@ -1,4 +1,4 @@
-# redux-form-widgets-jss-react
+# redux-widgets
 
 > Redux-form field widgets with JSS for React JS
 
@@ -9,8 +9,6 @@
 ```bash
 npm install --save redux-form-widgets-jss-react
 ```
-## !!! Documentation in progress !!!
-[Demo](https://zhukyuri.github.io/redux-form-widgets-jss-react/)
 
 ## Usage
 
