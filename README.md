@@ -127,6 +127,3 @@ Example
       </WidgetProvider>
   ```
 
-## License
-
-MIT © [zhukyuri](https://github.com/zhukyuri)
